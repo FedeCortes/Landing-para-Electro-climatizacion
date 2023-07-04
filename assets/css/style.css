@@ -134,7 +134,7 @@ html,body{
 	color: #888;
 }
 .header-left li :hover {
-	color: #7370d8;
+	color: black;
 }/* header-left  */
 
 /* header-right */
@@ -158,7 +158,7 @@ html,body{
 	
 }
 .header-right li a:hover{
-	color:#7370d8;
+	color:black;
 }
 .reg a {
     margin-right: 5px;
@@ -212,12 +212,12 @@ html,body{
 .wrapper-sticky{
 	position: relative;
 	display: inline-block;
-	background: rgba(115,112,216,1);
+	background: black;
 }
 
 /* sticky */
 .sticky{
-	background: rgba(115,112,216,1);
+	background: black;
 	padding: 10px 0px 0px;
 	height:80px;
 	color: #fff;
@@ -370,7 +370,7 @@ html,body{
 	display: inline-block;
     background: #f5f5fb;
     padding: 17px 50px;
-    color: #5549af;
+    color: black;
     border: 1px solid #f5f5fb;
 	font-size:16px;
 	font-weight:600;
@@ -404,7 +404,7 @@ html,body{
 	z-index:1;
 }
 .single-slide-item.slide-1:before,.single-slide-item.slide-2:before{
-	background:rgba(115,112,215,.6);
+	background:rgba(66, 191, 216, 0.6);
 	position:absolute;
 	left:0;
 	top:0;
@@ -468,7 +468,7 @@ html,body{
 }
 .carousel-control:hover {
 	background: #fff;
-	color:#6967d1;
+	color:rgba(66, 191, 216, 0.6);
 	font-size: 22px;
 }
 .carousel-control.left,
@@ -691,7 +691,7 @@ a.service-btn,
 a:active.service-btn,
 a:hover.service-btn,
 a:focus.service-btn{
-	color: #7370d8;
+	color: #0f6a84;
     font-size:16px;
 	font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
@@ -717,7 +717,7 @@ a:focus.service-btn{
 .statistics:before{
 	position:absolute;
 	content:'';
-	background: rgba(115,112,216,.8);
+	background: rgba(66, 191, 216, 0.6);
 	height:100%;
 	width:100%;
 	top:0;
@@ -823,7 +823,7 @@ a:focus.service-btn{
 	position:absolute;
 	height:100%;
 	width:100%;
-	background:rgba(115,112,216,.75);
+	background:rgba(66, 191, 216, 0.6);
 	display:flex;
 	align-items:center;
 	text-transform: capitalize;
@@ -869,8 +869,8 @@ a:focus.service-btn{
 	letter-spacing: 1.2px;
 }
 .project-view {
-    background: #7370d8;
-    border: 1px solid #7370d8;
+    background: #0f6a84;
+    border: 1px solid #0f6a84;
     width:185px;
     height:52px;
     line-height: 50px;
@@ -885,7 +885,7 @@ a:focus.service-btn{
     transition: 0.5s ease-in-out;
 }
 .project-view:hover {
-	color: #7370d8;
+	color: #0f6a84;
 	background: transparent;
 }/*project-btn*/
 
@@ -894,7 +894,7 @@ a:focus.service-btn{
 --------------------------------------*/
 .team{
 	padding: 120px 0;
-	background: #908ddc;
+	background: #0f6a84;
 }
 .team.team-main{
 	background: #fff;
@@ -964,7 +964,7 @@ a:focus.service-btn{
     left: 0;
     width: 100%;
 	padding: 19px 0 0px 30px;
-	background: rgba(65,62,126,.8);
+	background: rgba(66, 191, 216, 0.6);
 	height: 90px;
 	-webkit-transition: .7s;
     -moz-transition: .7s;
@@ -994,7 +994,7 @@ a.learn-btn,
 a:hover.learn-btn,
 a:focus.learn-btn,
 a:active.learn-btn{
-    color: #7086e6;
+    color: #0f6a84;
     font-size:12px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 700;
@@ -1051,7 +1051,7 @@ a:active.learn-btn{
 
 /*pricing-header */
 .pricing-header{
-	background:#7370d8;
+	background:rgba(66, 191, 216, 0.6);
 	padding-top: 25px;
     padding-bottom: 28px;
     -webkit-transition:all 0.3s linear;
@@ -1121,7 +1121,7 @@ a:active.learn-btn{
     opacity: 1;
 }
 .project-btn.pricing-btn a:hover{
-	color:#7370d8;
+	color:#0f6a84;
 }
 
 /*-------------------------------------
@@ -1144,7 +1144,7 @@ a:active.learn-btn{
     height: 100px;
     line-height: 100px;
     border-radius: 50%;
-    border: 2px solid #7370d8;
+    border: 2px solid rgba(66, 191, 216, 0.6);
 }
 .testemonial .owl-theme .owl-nav.disabled+.owl-dots {
     padding-bottom: 110px;
@@ -1159,8 +1159,8 @@ a:active.learn-btn{
     border: 2px solid #dfdeff;	
 }
 .testemonial .owl-theme .owl-dots .owl-dot.active span{
-    background: #7370d8;
-    border: 2px solid #7370d8;
+    background: rgba(66, 191, 216, 0.6);
+    border: 2px solid rgba(66, 191, 216, 0.6);
 }
 
 /*home1-testm-txt*/
@@ -1175,7 +1175,7 @@ a:active.learn-btn{
     padding: 15px 0 30px;
 }
 .home1-testm-txt h3 a{
-	color: #7370d8;
+	color: rgba(66, 191, 216, 0.6);
 	font-size: 24px;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
@@ -1199,7 +1199,7 @@ a:active.learn-btn{
 		12. Client
 --------------------------------------*/
 .clients{
-	background: #7370d8;
+	background: rgba(66, 191, 216, 0.6);
 	padding: 53px 0 0px;
 }
 .clients-area {
@@ -1297,14 +1297,14 @@ a:active.learn-btn{
 }
 
 .news-box-inner span{
-	color:#908edf;
+	color:rgba(66, 191, 216, 0.6);
 
 }
 a.learn-btn,
 a:hover.learn-btn,
 a:focus.learn-btn,
 a:active.learn-btn{
-    color: #7086e6;
+    color: rgba(66, 191, 216, 0.6);
     font-size:12px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 700;
@@ -1344,7 +1344,7 @@ a:active.learn-btn{
 	position: relative;
 }
 .contact:before{
-	background:rgba(115,112,215,.85);
+	background:rgba(66, 191, 216, 0.6);
 	position:absolute;
 	left:0;
 	top:0;
@@ -1357,10 +1357,10 @@ a:active.learn-btn{
 .section-header.contact-head h2,
 .section-header.contact-head p{
 	position: relative;
-	color: #fff;
+	color: black;
 }
 .contact-form h3{
-	color: #fff;
+	color: black;
 	font-size: 24px;
 	font-family: 'Poppins', sans-serif;
 	text-transform:capitalize;
@@ -1389,7 +1389,7 @@ a:active.learn-btn{
     border-radius: 0px;
     box-shadow: none;
 	outline:0!important;
-    background:#f9faff;
+    background:black;
     color: #888;
 	resize: none;
 
@@ -1403,10 +1403,10 @@ a:active.learn-btn{
 	display:flex;
 	align-items:center;
 	justify-content:center;
-	background: #7370d8;
+	background: rgba(66, 191, 216, 0.6);
 	height:50px;
 	width: 195px;
-	border:1px solid #7370d8;
+	border:1px solid rgba(66, 191, 216, 0.6);
 	text-transform:uppercase;
 	font-family: 'Poppins', sans-serif;
 	margin-top: 3px;
@@ -1421,7 +1421,7 @@ a:active.learn-btn{
     margin-top:0px;
     outline: 0 !important;
     border:0;
-    color: #fff;
+    color: black;
     letter-spacing: 2.5px;
     border-radius: 0px;
     font-size:14px;
@@ -1434,9 +1434,9 @@ a:active.learn-btn{
 }
 
 .single-contact-btn:hover button.contact-btn {
-	color:#7370d8;
-	background:#fff;
-	border:1px solid #7370d8;
+	color:#0f6a84;
+	background:black;
+	border:1px solid rgba(66, 191, 216, 0.6);
 }
 
 /*--contct button--*/
@@ -1456,13 +1456,13 @@ a:active.learn-btn{
     margin-bottom: 18px;
 }
 .contact-office-address h3{
-	color: #fff;
+	color: black;
 	font-size: 24px;
 	font-family: 'Poppins', sans-serif;
 	text-transform:capitalize;
 }
 .contact-office-address p{
-	color: #fff;
+	color: black;
 	font-size: 14px;
 	margin-bottom: 14px;
 	font-family: 'Poppins', sans-serif;
@@ -1470,7 +1470,7 @@ a:active.learn-btn{
 	margin-bottom: 50px;
 }
 .contact-online-address{
-	color:#fff;
+	color:black;
 	font-size: 14px;
 }
 .single-online-address {
@@ -1494,7 +1494,7 @@ a:active.learn-btn{
 }
 .contact-icon ul li{float:left;}
 .contact-icon ul li>a {
-	color: #fff;
+	color: black;
 	margin-right:13px;
 	padding: 0px 12px 0px 0px;
 	-webkit-transition: .3s; 
@@ -1512,7 +1512,7 @@ a:active.learn-btn{
 --------------------------------------*/
 .new-project {
     padding: 72px 0 72px;
-    background: #7370d8;
+    background: #0f6a84;
 }
 .single-new-project h3{
 	color: #fff;
@@ -1542,7 +1542,7 @@ a:active.learn-btn{
 
 .single-new-project  a.slide-btn:hover{
 	background: #f5f5fb;
-	color: #5549af;
+	color: #0f6a84;
     border: 1px solid #f5f5fb;
 }
 /*-------------------------------------
@@ -1695,7 +1695,7 @@ a:active.learn-btn{
     transition: all 0.2s linear;
 }
 .hm-para-news a:hover {
-	color: #7370d8;
+	color: #0f6a84;
 }
 .footer-line {
     padding: 30px 0 35px;
@@ -1780,7 +1780,7 @@ a:active.learn-btn{
 .about-part:before{
 	position:absolute;
 	content:'';
-	background: rgba(115,112,216,.6);
+	background: rgba(66, 191, 216, 0.6);
 	height:100%;
 	width:100%;
 	top:0;
@@ -1895,7 +1895,7 @@ a:active.learn-btn{
 }
 .timeline-content  span>i{
     display: inline-block;
-	color: #7370d8;
+	color: #0f6a84;
 	position: relative;
     top: 15px;
     left: -9px;
@@ -1981,7 +1981,7 @@ a:active.learn-btn{
     transition: all 0.5s linear;
 }
 .blog-categories-list ul li a:hover{
-	color:#908edf;
+	color:#0f6a84;
 	-webkit-transform:translate(10px);
 	-moz-transform:translate(10px);
 	-ms-transform:translate(10px);
@@ -2029,7 +2029,7 @@ a:active.learn-btn{
     padding-top: 8px;
 }
 .bl-txt p a:hover{
-	color: #908edf;
+	color: #0f6a84;
 }/*blog-related-news*/
 
 
@@ -2058,8 +2058,8 @@ a:active.learn-btn{
 }
 
 .blogs-widget .btn:hover{	
-	color:#908edf;
-	border:1px solid #908edf;
+	color:rgba(66, 191, 216, 0.6);
+	border:1px solid rgba(66, 191, 216, 0.6);
 }
 /*-blog button-*/\
 
@@ -2077,8 +2077,8 @@ a:active.learn-btn{
     
     color: #fff;
     cursor: pointer;
-    background-color:#908edf;
-    border-color: #908edf;
+    background-color:rgba(66, 191, 216, 0.6);
+    border-color: rgba(66, 191, 216, 0.6);
 }
 .pagination-part .pagination>li>a,
 .pagination-part .pagination>li>span {
@@ -2320,8 +2320,8 @@ a:active.learn-btn{
     cursor: pointer;
     z-index:15;
     color: #fff;
-    background:#7370d8;
-	border:1px solid #7370d8;
+    background:rgba(66, 191, 216, 0.6);
+	border:1px solid rgba(66, 191, 216, 0.6);
 	border-radius:5px;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -2331,9 +2331,9 @@ a:active.learn-btn{
 	z-index: 2;
 }
 #scroll-Top  .return-to-top:hover {
-    background:#7370d8;
+    background:rgba(66, 191, 216, 0.6);
     color: #fff;
-	border:1px solid #7370d8;
+	border:1px solid rgba(66, 191, 216, 0.6);
 	border-radius:50%;
 }
 
